@@ -1,0 +1,28 @@
+{
+  "results": [
+    {
+      "type": "income",
+      "name": "Revenue"
+    },
+    {
+      "type": "expense",
+      "name": "Home"
+    },
+    {
+      "type": "expense",
+      "name": "Transportation"
+    },
+    {
+      "type": "expense",
+      "name": "Entertainment"
+    },
+    {
+      "type": "expense",
+      "name": "Food"
+    },
+    {
+      "type": "expense",
+      "name": "Other"
+    }
+  ]
+}
