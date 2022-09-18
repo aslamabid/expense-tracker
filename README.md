@@ -1,5 +1,4 @@
 # expense-tracker
-
 cp .env.example .env
 
 
@@ -9,5 +8,5 @@ $ npm run start
 # development
 $ npm run start:dev
 
-#seeder for category
+# seeder for category
 $ npm run seed
